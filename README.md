@@ -11,5 +11,10 @@ Creation steps:
 √ Enable distributed caching to make your CI faster · No
 
 - run express server:
-nx run express-server:serve
+  nx run express-server:serve
 
+creating a nextjs app:
+nx g @nx/next:app next-app
+
+config in vercel:
+![test](./readme_images/vercel_next_settings.png)
