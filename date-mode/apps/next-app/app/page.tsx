@@ -10,7 +10,7 @@ export default async function Index() {
         <div className="container">
           <div id="welcome">
             <h1>
-              <span> Hello there 9 </span>
+              <span> Hello there 10 </span>
               Welcome next-app 👋
             </h1>
           </div>
